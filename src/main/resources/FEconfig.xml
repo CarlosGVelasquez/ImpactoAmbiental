@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<FactoresDeEmision>
+    <CombustionFija>
+        <GasNatural>50</GasNatural>
+        <DieselGasoil>100</DieselGasoil>
+        <Kerosene>1.20</Kerosene>
+        <FuelOil>5.2</FuelOil>
+        <Nafta>50</Nafta>
+        <Carbon>88</Carbon>
+        <CarbonDeLenia>123</CarbonDeLenia>
+        <Lenia>123</Lenia>
+    </CombustionFija>
+    <CombustionMovil>
+        <Gasoil>100</Gasoil>
+        <GNC>8</GNC>
+        <Nafta>50</Nafta>
+    </CombustionMovil>
+    <ElectricidadConsumida>
+        <Electricidad>5</Electricidad>
+    </ElectricidadConsumida>
+</FactoresDeEmision>
